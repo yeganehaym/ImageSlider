@@ -10,4 +10,3 @@ changing will be mess.
 
 KeepSquare Method (default value is false) will keep your images dimenssions fixed as squar images.
 it will be good when you use ImageSlider in gridview.
-![Alt text](http://upload7.ir/uploads//7d5edc0545dbd3d41544920050efc4912e03cab9.jpg "Optional title"
